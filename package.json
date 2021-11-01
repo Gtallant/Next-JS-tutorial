@@ -16,6 +16,9 @@
     "remark-html": "^13.0.2"
   },
   "devDependencies": {
-    "gray-matter": "^4.0.3"
+    "@types/node": "^16.11.6",
+    "@types/react": "^17.0.33",
+    "gray-matter": "^4.0.3",
+    "typescript": "^4.4.4"
   }
 }
